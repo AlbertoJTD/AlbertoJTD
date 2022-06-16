@@ -6,8 +6,7 @@ I am an Information Technology Engineer from Mexico, currently working as a back
 - 🌱 I’m currently learning React.
 - 🎮 I'm a big fan of videogames.
 - 🙃 Hobbys: I love listen to music, read and watch superhero/science-fiction movies 🦸
-- ⚡ Fun fact: I spend my time 
-- 
+
 ##
 
 My current technology stack:
