@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hi, I'm Alberto ✌...
 
-<!--
-**AlbertoJTD/AlbertoJTD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an Information Technology Engineer from Mexico, currently working as a backend developer 💻.
 
-Here are some ideas to get you started:
+- 🙌 I'm still preparing and learning to improve my skills in my job.
+- 🌱 I’m currently learning React.
+- 🎮 I'm a big fan of videogames.
+- 🙃 Hobbys: I love listen to music, read and watch superhero/science-fiction movies 🦸
+- ⚡ Fun fact: I spend my time 
+- 
+##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My current technology stack:
+- Ruby ♦️
+- Rails 🌌
+- HTML </>
+- JavaScript 🟨
+- React 🔵
+- Stimulus JS 🚀
+- PostgreSQL 🐘
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertoJTD&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
