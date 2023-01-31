@@ -3,7 +3,7 @@
 I am an Information Technology Engineer from Mexico, currently working as a backend developer 💻.
 
 - 🙌 I'm still preparing and learning to improve my skills in my job.
-- 🌱 I’m currently learning React.
+- 🌱 I’m currently learning Python.
 - 🎮 I'm a big fan of videogames.
 - 🙃 Hobbys: I love listen to music, read and watch superhero/science-fiction movies 🦸
 
@@ -15,6 +15,7 @@ My current technology stack:
 - HTML </>
 - JavaScript 🟨
 - React 🔵
+- Python 🐍
 - Stimulus JS 🚀
 - PostgreSQL 🐘
 
