@@ -1,7 +1,7 @@
 # 💫 About Me:
 ### Hello world, I'm Alberto ✌...<br><br> I am an Information Technology Engineer from Mexico, currently working as a backend developer 💻
 - 🙌 I'm currently in _Skill-Upgrade Mode_, equipping myself with a supercharged arsenal of knowledge and expertise!
-- 🌱 I'm currently learning and unlocking the secrets of the universe of Python, C#, TypeScript and all that that stuff
+- 🌱 I'm currently learning and unlocking the secrets of the universe of Python, C#, TypeScript and all that stuff
 - 🎮 I am a true master of the art of video games
 - 🙃 Hobbys: I love listen to music, read and watch superhero/science-fiction movies 🦸
 
